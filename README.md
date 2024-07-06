@@ -1,4 +1,4 @@
-# tiro-ao-alvo-graphics-c
+# tiro-ao-alvo-graphics-cpp
 Jogo de tiro ao alvo em C utilizando a biblioteca graphics.h
 
 
